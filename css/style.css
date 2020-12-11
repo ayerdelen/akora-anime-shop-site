@@ -1,0 +1,461 @@
+.informative-header {
+  font-weight: bold;
+  font-size: 10px;
+  padding: 10px 0;
+}
+.x-icon {
+  position: absolute;
+  right: 20px;
+  top: 10px;
+}
+
+.headline {
+  font-size: 12px;
+  padding-left: 16px;
+  line-height: 14px;
+  font-weight: bold;
+}
+
+.nav-link {
+  font-size: 15px;
+  line-height: 23px;
+  color: #191919 !important;
+  font-weight: bold;
+}
+.sale {
+  color: #f8002e !important;
+}
+#slider {
+  background-image: url(../images/art@2x.png);
+  background-size: cover;
+  background-position: center;
+}
+.slide {
+  top: 112px;
+}
+.opacity {
+  padding: 10% 3%;
+  background-color: #1919195e;
+}
+.first-slider {
+  text-align: end;
+  padding-bottom: 60px;
+}
+.slider-header {
+  letter-spacing: 2.3px;
+}
+.slider-subt {
+  color: #fcfcfc;
+  line-height: 24px;
+  font-weight: normal;
+  font-size: 14px;
+}
+.menu-div {
+  justify-content: center;
+}
+.pinkbox {
+  background-color: #ff2d54;
+  font-size: 20px;
+  font-weight: bold;
+}
+/* Franchises Section */
+.header {
+  padding-top: 120px;
+  text-align: center;
+  font-weight: 900;
+}
+.franchises-top-ul {
+  justify-content: space-between;
+  padding-top: 66px;
+}
+.franchises-bottom-list {
+  justify-content: space-around;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+.regular {
+  font-weight: 400;
+  font-size: 16px;
+}
+.show-more {
+  text-align: center;
+  padding-top: 55px;
+  font-size: 12px;
+}
+.show-more:hover {
+  font-size: 20px;
+  transition: 0.3s ease-in-out;
+}
+.border {
+  margin: 0 auto;
+  width: 7%;
+}
+/* SHOP BY CATEGORY */
+.categorie {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-left: 50px;
+}
+.main-category {
+  padding-top: 44px;
+}
+.cosplay-category {
+  background-size: cover;
+  background-position: top;
+  background-image: url(../images/cosplay-category.png);
+  width: 260px;
+  height: 270px;
+  background-repeat: no-repeat;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  margin-bottom: 10px;
+}
+.franchises-category {
+  background-image: url(../images/franchises-category.png);
+  width: 260px;
+  height: 160px;
+  background-size: cover;
+  display: flex;
+  text-align: center;
+  align-items: center;
+}
+.transparent {
+  background-color: #19191978;
+  width: 100%;
+  height: 100%;
+}
+.category-image-heading {
+  color: #fcfcfc;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.left-categories {
+  padding-left: 8%;
+}
+.posters-category {
+  background-image: url(../images/pictures-category.png);
+  width: 600px;
+  height: 160px;
+  background-size: cover;
+}
+.poster-nopadding {
+  padding: 0;
+}
+.manga-category {
+  background-image: url(../images/manga-category.png);
+  width: 160px;
+  height: 271px;
+  background-size: cover;
+  margin-top: 10px;
+}
+.clothes-category {
+  background-image: url(../images/clothes-category.png);
+  width: 215px;
+  height: 120px;
+  background-size: cover;
+  margin: 10px;
+  background-position: center;
+}
+.figures-category {
+  background-image: url(../images/figures-category.png);
+  width: 215px;
+  height: 120px;
+  background-size: cover;
+  margin-top: 10px;
+  background-position: center;
+}
+.accessories-category {
+  background-image: url(../images/accessories.png);
+  background-size: cover;
+  height: 141px;
+  margin-left: 10px;
+}
+/* LATEST PRODUCTS */
+.products {
+  padding-top: 44px;
+}
+.product-images {
+  width: 118px;
+  height: 159px;
+}
+.product-cards {
+  margin-left: 30px;
+}
+.regular-text {
+  font-size: 12px;
+  line-height: 19px;
+  color: #8b8b8b;
+}
+.top-products {
+  justify-content: center;
+}
+.product-texts {
+  padding-top: 20px;
+}
+.bottom-products {
+  justify-content: center;
+  padding-top: 60px;
+}
+.reset {
+  margin: 0;
+  padding: 0;
+}
+/* instagram */
+#instagram {
+  padding-bottom: 118px;
+}
+.sub-header {
+  font-size: 16px;
+  color: #6b6b6b;
+}
+.bottom-product {
+  justify-content: center;
+  padding-top: 36px;
+}
+/* contact */
+.contact-main {
+  background-color: #f3f3f3;
+}
+.contact-header {
+  padding-top: 74px !important;
+}
+.email-form {
+  padding: 20px 0 20px 30px;
+  background-color: #3a3a3a;
+  color: #fcfcfc;
+  width: 40%;
+}
+.subscribe {
+  padding: 20px 50px;
+  background-color: #191919;
+  color: #fcfcfc;
+  text-align: center;
+  font-size: 16px;
+  height: fit-content;
+  border: 1px solid #191919;
+}
+.form-group {
+  display: contents;
+}
+.email-box {
+  justify-content: center;
+  padding: 41px 0 80px 0;
+}
+/* footer */
+#footer {
+  background-color: #191919;
+  contain: content;
+}
+.footer-list {
+  padding-top: 130px;
+}
+.footer-list li {
+  padding: 20px 0;
+}
+.icons {
+  display: flex;
+  justify-content: space-between;
+  font-size: 28px;
+  color: #6b6b6b;
+}
+.border-custom {
+  border: 1px solid #212121;
+  margin: 10px;
+}
+.credit {
+  color: #6b6b6b;
+  font-size: 18px;
+  padding: 1% 3%;
+}
+
+@media (max-width: 767px) {
+  body {
+    contain: content;
+  }
+  .logo {
+    display: initial;
+    margin-top: 4px;
+  }
+  .logo img {
+    width: 80px;
+  }
+  .display-none {
+    display: none !important;
+  }
+  .search-item {
+    justify-content: flex-end;
+    position: absolute;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-around;
+  }
+  .search-button {
+    position: absolute;
+    right: 47px;
+    top: 10px;
+  }
+  .shopping-button {
+    position: absolute;
+    left: 0;
+    top: 10px;
+  }
+  .menu-button {
+    position: absolute;
+    right: 20px;
+    top: 9px;
+  }
+  .menu-div {
+    justify-content: flex-end;
+    position: absolute;
+  }
+  .opacity {
+    padding: 0;
+  }
+  .slide {
+    top: 0;
+  }
+  .first-slider {
+    top: 60px;
+    padding: 60px 33px 60px 60px;
+  }
+  .header {
+    padding-top: 50px;
+  }
+  /* Franchises Mobile */
+  .franchises-menu {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+  }
+  .franchises-top-ul {
+    display: block;
+    padding-top: 40px;
+  }
+  .franchises-bottom-list {
+    align-self: center;
+    display: block;
+    padding-top: 0;
+  }
+  .franchises-category {
+    width: 100%;
+  }
+  .showmore-box {
+    display: none;
+  }
+  /* category */
+  .categorie {
+    display: contents;
+  }
+  .main-category {
+    display: contents;
+  }
+  .left-categories {
+    padding: 5%;
+  }
+  .posters-category {
+    background-position: center;
+  }
+  .right-category {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 15px;
+  }
+  .cosplay-category {
+    width: 100%;
+  }
+  .manga-category {
+    background-position: center;
+    width: auto;
+    display: inline-table;
+  }
+  .categories {
+    flex-direction: column;
+  }
+  .clothes-category {
+    margin-left: 0;
+  }
+  .accessories-category {
+    margin-left: 0;
+  }
+  /* products */
+  .products {
+    display: flex;
+    overflow: auto;
+  }
+  .bottom-products {
+    padding-top: 0;
+  }
+  .bottom-product {
+    padding-top: 0;
+  }
+  .product-cards {
+    margin: 0 10px;
+  }
+  /* email */
+  .email-form {
+    width: 100%;
+  }
+  .email-box {
+    flex-direction: column;
+    padding: 20px;
+  }
+  .contact-footer {
+    width: 100%;
+    padding-top: 20px;
+  }
+}
+@media (min-width: 768px) {
+  body {
+    contain: content;
+  }
+  .none {
+    display: none;
+  }
+  .main-category {
+    width: 100%;
+  }
+  .right-category {
+    display: flex;
+    justify-content: center;
+  }
+  .cosplay-category {
+    width: 50%;
+  }
+  .franchises-category {
+    width: 50%;
+    height: 96%;
+    margin-left: 10px;
+  }
+  .left-categories {
+    padding-left: 2%;
+  }
+  .products {
+    contain: content;
+  }
+}
+@media (min-width: 1024px) {
+  .main-category {
+    width: auto;
+  }
+  .right-category {
+    display: block;
+  }
+  .cosplay-category {
+    width: 260px;
+  }
+  .franchises-category {
+    margin-left: 0;
+    width: 260px;
+    height: 160px;
+  }
+  .left-categories {
+    padding-left: 8%;
+  }
+}
